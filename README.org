@@ -1,0 +1,10 @@
+* alexandria-plus
+
+A conservative set of extensions to Alexandria utilities
+
+|---------+------------------------------------------------------|
+| source  | git:https://github.com/Symbolics/alexandria-plus.git |
+| commit  | adafb09                                              |
+| systems | alexandria+                                          |
+|---------+------------------------------------------------------|
+
