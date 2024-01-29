@@ -4,7 +4,7 @@ A conservative set of extensions to Alexandria utilities
 
 |---------+------------------------------------------------------|
 | source  | git:https://github.com/Symbolics/alexandria-plus.git |
-| commit  | adafb09                                              |
+| commit  | b9653e5                                              |
 | systems | alexandria+                                          |
 |---------+------------------------------------------------------|
 
