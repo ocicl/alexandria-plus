@@ -1,10 +1,10 @@
 * alexandria-plus
 
-A conservative set of extensions to Alexandria utilities
+Extensions to Alexandria utility library.
 
-|---------+------------------------------------------------------|
-| source  | git:https://github.com/Symbolics/alexandria-plus.git |
-| commit  | 1bb9486                                              |
-| systems | alexandria+                                          |
-|---------+------------------------------------------------------|
+|---------+--------------------------------------------------------|
+| source  | git:https://github.com/Symbolics/alexandria-plus.git   |
+| commit  | 1bb9486                                                |
+| systems | alexandria_plus                                        |
+|---------+--------------------------------------------------------|
 
