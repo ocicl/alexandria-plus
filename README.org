@@ -2,9 +2,10 @@
 
 Extensions to Alexandria utility library.
 
-|---------+--------------------------------------------------------|
-| source  | git:https://github.com/Symbolics/alexandria-plus.git   |
-| commit  | 1bb9486                                                |
-| systems | alexandria_plus                                        |
-|---------+--------------------------------------------------------|
+|---------+------------------------------------------------------|
+| source  | git:https://github.com/Symbolics/alexandria-plus.git |
+| commit  | 1b99903                                              |
+| systems | alexandria_plus                                      |
+|---------+------------------------------------------------------|
+--------|
 
