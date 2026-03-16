@@ -4,7 +4,7 @@ Extensions to Alexandria utility library.
 
 |---------+------------------------------------------------------|
 | source  | git:https://github.com/Symbolics/alexandria-plus.git |
-| commit  | 1b99903                                              |
+| commit  | 5112646                                              |
 | systems | alexandria_plus                                      |
 |---------+------------------------------------------------------|
 --------|
